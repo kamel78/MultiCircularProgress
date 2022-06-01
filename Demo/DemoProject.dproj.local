@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/23 00:52:31.000.974,=C:\Users\neptune\Documents\Embarcadero\Studio\Projets\Unit4.pas</Transaction>
+    <Transaction>2022/04/30 00:12:00.000.757,=C:\Users\neptune\Documents\Embarcadero\Studio\Projets\Unit4.pas</Transaction>
+    <Transaction>2022/05/25 15:51:42.000.117,=C:\Users\neptune\Documents\Embarcadero\Studio\Projets\Unit4.pas</Transaction>
+    <Transaction>2022/05/25 16:15:04.000.613,C:\Users\neptune\Documents\Embarcadero\Studio\Projets\Unit4.pas=C:\Users\neptune\Desktop\WaitAnim\Unit4.pas</Transaction>
+    <Transaction>2022/05/25 16:15:04.000.613,C:\Users\neptune\Documents\Embarcadero\Studio\Projets\Unit4.fmx=C:\Users\neptune\Desktop\WaitAnim\Unit4.fmx</Transaction>
+    <Transaction>2022/05/25 16:15:08.000.347,C:\Users\neptune\Documents\Embarcadero\Studio\Projets\Project4.dproj=C:\Users\neptune\Desktop\WaitAnim\Project4.dproj</Transaction>
+    <Transaction>2022/05/26 11:50:26.000.995,=C:\Users\Kamel\Desktop\WaitAnim\Unit1.pas</Transaction>
+    <Transaction>2022/05/26 11:50:39.000.616,C:\Users\Kamel\Desktop\WaitAnim\MultiCircularProgress.pas=C:\Users\Kamel\Desktop\WaitAnim\Unit1.pas</Transaction>
+    <Transaction>2022/06/01 15:58:55.000.778,C:\Users\Kamel\Desktop\HttpDownload\MultiCircularPackage\Demo\DemoProject.dproj=C:\Users\Kamel\Desktop\WaitAnim\Project4.dproj</Transaction>
+    <Transaction>2022/06/01 15:59:19.000.787,C:\Users\Kamel\Desktop\HttpDownload\MultiCircularPackage\Demo\MainForm.pas=C:\Users\Kamel\Desktop\WaitAnim\Unit4.pas</Transaction>
+    <Transaction>2022/06/01 15:59:19.000.787,C:\Users\Kamel\Desktop\HttpDownload\MultiCircularPackage\Demo\MainForm.fmx=C:\Users\Kamel\Desktop\WaitAnim\Unit4.fmx</Transaction>
+    <Transaction>2022/06/01 15:59:55.000.711,C:\Users\Kamel\Desktop\HttpDownload\MultiCircularPackage\MultiCircularProgress.pas=C:\Users\Kamel\Desktop\WaitAnim\MultiCircularProgress.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

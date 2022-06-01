@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/01 15:33:01.000.794,=rtl.dcp</Transaction>
+    <Transaction>2022/06/01 15:35:37.000.463,=fmx.dcp</Transaction>
+    <Transaction>2022/06/01 15:35:37.000.414,=C:\Users\Kamel\Desktop\HttpDownload\MultiCircularPackage\MultiCircularProgress.pas</Transaction>
+    <Transaction>2022/06/01 15:37:40.000.017,C:\Users\Kamel\Documents\Embarcadero\Studio\Projets\Package1.dproj=C:\Users\Kamel\Desktop\HttpDownload\MultiCircularPackage\MProgressPackage.dproj</Transaction>
+    <Transaction>2022/06/01 16:03:42.726,=C:\Users\Kamel\Desktop\HttpDownload\MultiCircularPackage\MultiCircularProgress.pas</Transaction>
+  </Transactions>
+</BorlandProject>

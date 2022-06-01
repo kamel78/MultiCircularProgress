@@ -1,0 +1,108 @@
+object Form4: TForm4
+  Left = 0
+  Top = 0
+  Caption = 'Circular Progress Demo'
+  ClientHeight = 206
+  ClientWidth = 425
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object Edit1: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 0
+    Text = '8'
+    Position.X = 312.000000000000000000
+    Position.Y = 24.000000000000000000
+    Size.Width = 105.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Button2: TButton
+    Position.X = 200.000000000000000000
+    Position.Y = 81.000000000000000000
+    Size.Width = 217.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Generate Random progress values '
+    OnClick = Button2Click
+  end
+  object Label1: TLabel
+    Position.X = 200.000000000000000000
+    Position.Y = 24.000000000000000000
+    Text = 'Number of Tracks'
+    TabOrder = 7
+  end
+  object ComboBox2: TComboBox
+    Items.Strings = (
+      'Arcs and Pies'
+      'Arcs Only'
+      'Pies Only')
+    ItemIndex = 0
+    Position.X = 311.000000000000000000
+    Position.Y = 51.000000000000000000
+    Size.Width = 108.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    OnChange = ComboBox2Change
+  end
+  object Label6: TLabel
+    Position.X = 200.000000000000000000
+    Position.Y = 46.000000000000000000
+    Size.Width = 89.000000000000000000
+    Size.Height = 24.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Progress Style :'
+    TabOrder = 6
+  end
+  object ComboColorBox1: TComboColorBox
+    Color = claWhite
+    Position.X = 320.000000000000000000
+    Position.Y = 112.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 9
+    OnChange = ComboColorBox1Change
+  end
+  object Label2: TLabel
+    Position.X = 200.000000000000000000
+    Position.Y = 110.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 24.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Back progress Color'
+    TabOrder = 5
+  end
+  object Label3: TLabel
+    Position.X = 200.000000000000000000
+    Position.Y = 134.000000000000000000
+    Size.Width = 113.000000000000000000
+    Size.Height = 24.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Progress Color'
+    TabOrder = 4
+  end
+  object ComboColorBox2: TComboColorBox
+    Color = claWhite
+    Position.X = 320.000000000000000000
+    Position.Y = 136.000000000000000000
+    Size.Width = 60.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 8
+    OnChange = ComboColorBox2Change
+  end
+  object Label4: TLabel
+    Position.X = 200.000000000000000000
+    Position.Y = 166.000000000000000000
+    Size.Width = 113.000000000000000000
+    Size.Height = 24.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Total Progress'
+    TabOrder = 3
+  end
+end
